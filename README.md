@@ -7,6 +7,10 @@ Clases de Composición Musical, Orquestación e Instrumentación, por [Felix Pin
 
 [comic](https://felixpinok.github.io/comic)
 
+[comid](https://felixpinok.github.io/comid)
+
+[comie](https://felixpinok.github.io/comie)
+
 [comiia](https://felixpinok.github.io/comiia)
 
 [comiib](https://felixpinok.github.io/comiib)
@@ -21,6 +25,9 @@ Clases de Composición Musical, Orquestación e Instrumentación, por [Felix Pin
 
 [comiiib](https://felixpinok.github.io/comiiib)
 
+[comiiic](https://felixpinok.github.io/comiiic)
+
+[comiiid](https://felixpinok.github.io/comiiid)
 
 [orqia](https://felixpinok.github.io/orqia)
 
@@ -28,9 +35,15 @@ Clases de Composición Musical, Orquestación e Instrumentación, por [Felix Pin
 
 [orqic](https://felixpinok.github.io/orqic)
 
+[orqid](https://felixpinok.github.io/orqid)
+
+[orqie](https://felixpinok.github.io/orqie)
+
 [orqiia](https://felixpinok.github.io/orqiia)
 
 [orqiiia](https://felixpinok.github.io/orqiiia)
+
+[orqiiib](https://felixpinok.github.io/orqiiib)
 
 
 [insia](https://felixpinok.github.io/insia)
