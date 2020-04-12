@@ -13,6 +13,10 @@ Clases de Composición Musical, Orquestación e Instrumentación, por [Felix Pin
 
 [comiic](https://felixpinok.github.io/comiic)
 
+[comiid](https://felixpinok.github.io/comiid)
+
+[comiie](https://felixpinok.github.io/comiie)
+
 [comiiia](https://felixpinok.github.io/comiiia)
 
 [comiiib](https://felixpinok.github.io/comiiib)
